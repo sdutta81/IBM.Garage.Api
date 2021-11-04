@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBM.Garage.Api", "IBM.Garage.Api\IBM.Garage.Api.csproj", "{75443C70-A212-4385-832C-CDA22C63DFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75443C70-A212-4385-832C-CDA22C63DFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75443C70-A212-4385-832C-CDA22C63DFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75443C70-A212-4385-832C-CDA22C63DFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75443C70-A212-4385-832C-CDA22C63DFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422232AF-EF5F-4A9B-9022-9A6AD6359A14}
+	EndGlobalSection
+EndGlobal

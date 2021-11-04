@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IBM.Garage.Api
+build_property.ProjectDir = c:\Code\IBM.Garage.Api\IBM.Garage.Api\
